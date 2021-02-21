@@ -55,7 +55,7 @@ class _RegisterState extends State<Register> {
 
     String _formatTime(date) {
       return date.toString() == 'null'
-          ? 'please select your birthdate'
+          ? 'select your birthdate'
           : date.toString().split(' ')[0];
     }
 
