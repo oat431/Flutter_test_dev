@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832259839158",
+    "project_id": "crub-with-firebase",
+    "storage_bucket": "crub-with-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832259839158:android:bb6f42126146bd6fb60217",
+        "android_client_info": {
+          "package_name": "com.example.crud_with_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832259839158-s30c23su7lhula45iagj9vkneopg4b4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCk-1BU8dSfINAfl3a0g0_S1FxFBSHVLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832259839158-s30c23su7lhula45iagj9vkneopg4b4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
